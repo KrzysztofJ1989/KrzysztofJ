@@ -1,3 +1,4 @@
 To jest plik pierwszy.
 Pierwsza zmiana w pliku nr 1
-Plik zmodyfikowany na branchu 'master'
+Zmiana na branchu 'newFeature'
+
