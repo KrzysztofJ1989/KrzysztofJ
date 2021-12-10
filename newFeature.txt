@@ -1,2 +1,3 @@
 To jest plik pierwszy.
 Pierwsza zmiana w pliku nr 1
+Zmiana na branchu 'newFeature'
