@@ -1,1 +1,9 @@
-Pierwszy plik, stworzony w github
+!html
+<!doc>
+<html>
+  <head>
+  </head>
+  <body>
+    <h1>Mój pierwszy tekst</h1>
+  </body>
+</html>
